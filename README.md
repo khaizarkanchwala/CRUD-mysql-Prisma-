@@ -5,3 +5,9 @@ Basic Crud operation is performed using Prisma,mySQL,SWR,React,Express,Node.js,T
 ```
 npm i
 ```
+## Connect to Mysql
+### create .env file in server folder
+```
+APP_PORT=8000
+DATABASE_URL="mysql://username:password@localhost:3306/crudprisma"
+```
