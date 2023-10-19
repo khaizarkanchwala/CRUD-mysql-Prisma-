@@ -3,5 +3,5 @@ Basic Crud operation is performed using Prisma,mySQL,SWR,React,Express,Node.js,T
 ## After clonning
 ### Both server and client run
 ```
-npm init
+npm i
 ```
