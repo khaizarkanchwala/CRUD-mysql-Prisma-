@@ -11,7 +11,8 @@ npm i
 APP_PORT=8000
 DATABASE_URL="mysql://username:password@localhost:3306/crudprisma"
 ```
-## Also setup tailwind
+
+## Setting up tailwind(Just for reference alreay installed)
 ```
 npm install -D tailwindcss
 npx tailwindcss init
